@@ -12,18 +12,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       |    Axil             |    Daniel   |    Laura    |    Moamin         |        Senait       |        Tatsiana     |
-| --------- | :---------:         | :---------: | :---------: | :---------:       | :-----------------: | :-----------------: |
-| Monday    | 13-14/16-19/21-24   |   all day   | 1700-2300   | 10-1300 14-1800   | 1700-2300           |      15.00-19.00    |
-| Tuesday   | 13-14/16-19/21-24   |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2300           |      13.00-20.00    |
-| Wednesday | 13-14/16-19/21-24   |after 16:30  |  1700-2300  | 10-1300 14-1800   | 1700-2300           |      13.00-00.00    |
-| Thursday  | 13-14/16-19/21-24   |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2300           |      All day        |
-| Friday    | 09-12/21-24         |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2300           |      All day        |
+| Day       |    Monday   |    Tuesday   |    Wednesday |    Thursday  |     Friday   |   Saturday   |
+| --------- | :--------   | :---------:  | :---------:  | :---------:  | :-----------:| :----------: |
+| Axil      |             |              |              |              |              |              |
+| Daniel    |             |              |              |              |              |              |
+| Laura     |             |              |              |              |              |              |
+| Moamin    |             |              |              |              |              |              |
+| Senait    |             |              |              |              |              |              |
+| Tatsiana  |             |              |              |              |              |              |
 
 ### How many hours everyone has per day:
 
 - Axil: _7h_;
-- Daniel: _9h_;
+- Daniel: _6h_;
 - Moamin: _6h_;
 - Laura: _6h_;
 - Senait: _6h_;
