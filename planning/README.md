@@ -15,7 +15,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day       |    Monday   |    Tuesday   |    Wednesday |    Thursday  |     Friday   |   Saturday   |
 | --------- | :--------   | :---------:  | :---------:  | :---------:  | :-----------:| :----------: |
 | Axil      |             |              |              |              |              |              |
-| Daniel    |             |              |              |              |              |              |
+| Daniel    |  1000-2000  |  2200-2400   |  1700-2200   |  1000-2000   |   1000-2000  |   1000-2000  |
 | Laura     |             |              |              |              |              |              |
 | Moamin    |             |              |              |              |              |              |
 | Senait    |             |              |              |              |              |              |
