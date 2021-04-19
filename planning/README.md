@@ -25,7 +25,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - Axil: _7h_;
 - Daniel: _6h_;
-- Moamin: _6h_;
+- Moamin: _6h_, flexible timing;
 - Laura: _6h_;
 - Senait: _6h_;
 - Tatsiana: _6h_;
