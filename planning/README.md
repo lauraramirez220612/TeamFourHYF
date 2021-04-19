@@ -12,14 +12,14 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       |    Monday   |    Tuesday   |    Wednesday |    Thursday  |     Friday   |   Saturday   |
-| --------- | :--------   | :---------:  | :---------:  | :---------:  | :-----------:| :----------: |
-| Axil      |             |              |              |              |              |              |
-| Daniel    |             |              |              |              |              |              |
-| Laura     |             |              |              |              |              |              |
-| Moamin    |             |              |              |              |              |              |
-| Senait    |             |              |              |              |              |              |
-| Tatsiana  |             |              |              |              |              |              |
+| Day       |    Monday        |    Tuesday      |    Wednesday    |    Thursday     |     Friday   |   Saturday   |
+| --------- |    :--------:    | :---------:     | :---------:     | :---------:     | :-----------:| :----------: |
+| Axil      |13-14/16-19/21-24 |13-14/16-19/21-24|13-14/16-19/21-24|13-14/16-19/21-24| 09-12/21-24  | unvailable   |
+| Daniel    |                  |                 |                 |                 |              |              |
+| Laura     |                  |                 |                 |                 |              |              |
+| Moamin    |                  |                 |                 |                 |              |              |
+| Senait    |                  |                 |                 |                 |              |              |
+| Tatsiana  |                  |                 |                 |                 |              |              |
 
 ### How many hours everyone has per day:
 
