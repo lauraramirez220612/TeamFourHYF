@@ -17,9 +17,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Axil      |13-14/16-19/21-24 |13-14/16-19/21-24|13-14/16-19/21-24|13-14/16-19/21-24| 09-12/21-24  | unvailable   |
 | Daniel    |  1000-2000       |  2200-2400      |  1700-2200      |  1000-2000      |   1000-2000  |   1000-2000  |
 | Laura     |                  |                 |                 |                 |              |              |
-| Moamin    |  10-1300 14-1900 | 10-1300 14-1900 |     9-1200      | 10-1300 14-1900 |  1700-2200   |              |
-| Senait    |                  |                 |                 |                 |              |              |
-| Tatsiana  |  9.00-16.00                |     9.00-16.00              |                  9.00-16.00 |       9.00-16.00            |     9.00-16.00           |     9.00-16.00           |
+| Moamin    |  10-1300 14-1900 | 10-1300 14-1900 |     9-1200      | 10-1300 14-1900 |  1700-2200   | unvailable   |
+| Senait    |  1700-2300       |    1800-2300    |   1700-2300     |  1700-2300      |  1800-2300   | unvailable   |
+| Tatsiana  |  9.00-16.00      |     9.00-16.00  |     9.00-16.00  |  9.00-16.00     | 9.00-16.00   | 9.00-16.00   |
 
 ### How many hours everyone has per day:
 
@@ -27,7 +27,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Daniel: _6h_;
 - Moamin: _6h_, flexible timing;
 - Laura: _6h_;
-- Senait: _6h_;
+- Senait: _5/6h_;
 - Tatsiana: _5h_;
 
 ## Asking for Help
