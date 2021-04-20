@@ -12,8 +12,8 @@ What the visitor/user of the website will get.
 - HEADER logo as navigation to home page website,navigation bar that give possibility to look different pages ,and button that give access to applying page .
 - slogan with beautiful  background page.
 - details of the program with link to program page.
-<!-- 1dont know how to name it (OUR IMPACT) -->
-<!-- 2dont know how to name it (Our core values) -->
+- section with impact of HYF description and background
+- section with core values  description and pict
 - successful stories of peoples that u can scroll.
 - logos of companies with whom HYF collaborate.
 - possibility to support.
