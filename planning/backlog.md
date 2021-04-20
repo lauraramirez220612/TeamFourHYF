@@ -5,20 +5,78 @@ What the visitor/user of the website will get.
 
 ## Must-Haves
 
-are necessary for basic usability:
+<summary> <h3><span style="color:grey">Page1(Home page)</span></h3></summary>
+<details >
+<br>
 
-- **basic functionality**: see a logo, company name, company description, request for service, and footer with social media links
+- HEADER logo as navigation to home page website,navigation bar that give possibility to look different pages ,and button that give access to applying page .
+- slogan with beautiful  background page.
+- details of the program with link to program page.
+<!-- 1dont know how to name it (OUR IMPACT) -->
+<!-- 2dont know how to name it (Our core values) -->
+- successful stories of peoples that u can scroll.
+- logos of companies with whom HYF collaborate.
+- possibility to support.
+- contact.
+- FOOTER with name of the company ,address and social media links.
+
+</details>
+
+<summary> <h3><span style="color:grey">Page2(The program)</span></h3></summary>
+<details >
+<br>
+
+- HEADER.
+- details of the program and possibility to apply.
+- description of the program with a logos of languages
+- details about final project,Towards a job: Mentorship Program,Career Skills Sessions
+- FOOTER.
+</details>
+
+
+<summary> <h3><span style="color:grey">Page3(About)</span></h3></summary>
+<details >
+<br>
+
+- HEADER.
+- description about HYF (with mission,vision,history)
+- FOOTER.
+</details>
 
 ## Should-Haves
 
-will complete the user experience, but are not necessary:
+<summary> <h3><span style="color:grey">Page1(Home page)</span></h3></summary>
+<details >
+<br>
+- contact(map)
 
-- **more advanced functions**: navigation, contact info, newsletter subscription
-  
+</details>
+
+<summary> <h3><span style="color:grey">Page4(Valunteer)</span></h3></summary>
+<details >
+<br>
+
+- HEADER.
+- describing of possibility to apply as a mentor or coach
+- FOOTER.
+</details>
+
 ## Could-Haves
 
 would be really cool ... if there's time:
 
-- **user story name**: Work samples/product gallery, Customers testimonies
+<summary> <h3><span style="color:grey">Page3(About)</span></h3></summary>
+<details >
+<br>
 
----
+- Team with photo and social media links to .
+
+</details>
+
+<summary> <h3><span style="color:grey">Page4(Valunteer)</span></h3></summary>
+<details >
+<br>
+
+- history of mentors and coaches.
+
+</details>
