@@ -56,7 +56,7 @@ What the visitor/user of the website will get.
 </details>
 
 <details >
-<summary> Page4(Valunteer)</summary>
+<summary> Page4(Volunteer)</summary>
 
 <br>
 
@@ -79,7 +79,7 @@ would be really cool ... if there's time:
 </details>
 
 <details >
-<summary> Page4(Valunteer)</summary>
+<summary> Page4(Volunteer)</summary>
 
 <br>
 
