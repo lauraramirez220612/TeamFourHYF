@@ -19,7 +19,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Laura     |                  |                 |                 |                 |              |              |
 | Moamin    |  10-1300 14-1900 | 10-1300 14-1900 |     9-1200      | 10-1300 14-1900 |  1700-2200   |              |
 | Senait    |                  |                 |                 |                 |              |              |
-| Tatsiana  |                  |                 |                 |                 |              |              |
+| Tatsiana  |  9.00-16.00                |     9.00-16.00              |                  9.00-16.00 |       9.00-16.00            |     9.00-16.00           |     9.00-16.00           |
 
 ### How many hours everyone has per day:
 
