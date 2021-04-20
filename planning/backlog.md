@@ -5,8 +5,10 @@ What the visitor/user of the website will get.
 
 ## Must-Haves
 
-<summary> <h3><span style="color:grey">Page1(Home page)</span></h3></summary>
 <details >
+<summary> Page1(Home page)
+</summary>
+
 <br>
 
 - HEADER logo as navigation to home page website,navigation bar that give possibility to look different pages ,and button that give access to applying page .
@@ -22,8 +24,9 @@ What the visitor/user of the website will get.
 
 </details>
 
-<summary> <h3><span style="color:grey">Page2(The program)</span></h3></summary>
 <details >
+<summary> Page2(The program)</summary>
+
 <br>
 
 - HEADER.
@@ -33,9 +36,9 @@ What the visitor/user of the website will get.
 - FOOTER.
 </details>
 
-
-<summary> <h3><span style="color:grey">Page3(About)</span></h3></summary>
 <details >
+<summary> Page3(About)</summary>
+
 <br>
 
 - HEADER.
@@ -44,16 +47,17 @@ What the visitor/user of the website will get.
 </details>
 
 ## Should-Haves
-
-<summary> <h3><span style="color:grey">Page1(Home page)</span></h3></summary>
 <details >
+<summary> Page1(Home page)</summary>
+
 <br>
 - contact(map)
 
 </details>
 
-<summary> <h3><span style="color:grey">Page4(Valunteer)</span></h3></summary>
 <details >
+<summary> Page4(Valunteer)</summary>
+
 <br>
 
 - HEADER.
@@ -65,16 +69,18 @@ What the visitor/user of the website will get.
 
 would be really cool ... if there's time:
 
-<summary> <h3><span style="color:grey">Page3(About)</span></h3></summary>
 <details >
+<summary> Page3(About)</summary>
+
 <br>
 
 - Team with photo and social media links to .
 
 </details>
 
-<summary> <h3><span style="color:grey">Page4(Valunteer)</span></h3></summary>
 <details >
+<summary> Page4(Valunteer)</summary>
+
 <br>
 
 - history of mentors and coaches.
