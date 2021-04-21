@@ -22,22 +22,22 @@ The following tools were used in this project:
   3. [Write Backlog](planning/backlog.md)
   4. [Make Wire-frame](planning/wireframe.md)
   5. [Development Strategy](planning/development-strategy.md)
-  6. [Development](https://github.com/lauraramirez220612/TeamFourHYF/blob/main/index.html)
+  6. [Development](https://lauraramirez220612.github.io/TeamFourHYF/)
 
 ## Screenshots
 
 Intended final result
 
-- [Screenshot image 1](https://github.com/lauraramirez220612/TeamFourHYF/blob/image/Image%20folder/Web%20capture_20-4-2021_165146_hackyourfuture.be.jpeg)
-- [Screenshot image 2](https://github.com/lauraramirez220612/TeamFourHYF/blob/image/Image%20folder/Web%20capture_20-4-2021_165220_hackyourfuture.be.jpeg)
-- [Screenshot image 3](https://github.com/lauraramirez220612/TeamFourHYF/blob/image/Image%20folder/Web%20capture_20-4-2021_165247_hackyourfuture.be.jpeg)
+- [Screenshot image 1](Image%20folder/Web%20capture_20-4-2021_165146_hackyourfuture.be.jpeg)
+- [Screenshot image 2](Image%20folder/Web%20capture_20-4-2021_165220_hackyourfuture.be.jpeg)
+- [Screenshot image 3](Image%20folder/Web%20capture_20-4-2021_165247_hackyourfuture.be.jpeg)
 
-- [Screenshot image 4](https://github.com/lauraramirez220612/TeamFourHYF/blob/image/Image%20folder/Web%20capture_20-4-2021_165345_hackyourfuture.be.jpeg)
+- [Screenshot image 4](Image%20folder/Web%20capture_20-4-2021_165345_hackyourfuture.be.jpeg)
 
-- [screenshot image 5](https://github.com/lauraramirez220612/TeamFourHYF/blob/image/Image%20folder/Web%20capture_20-4-2021_165443_hackyourfuture.be.jpeg)
+- [screenshot image 5](Image%20folder/Web%20capture_20-4-2021_165443_hackyourfuture.be.jpeg)
 
-- [Screenshot image 6](https://github.com/lauraramirez220612/TeamFourHYF/blob/image/Image%20folder/Web%20capture_20-4-2021_165512_hackyourfuture.be.jpeg)
-- [Screenshot image 7](https://github.com/lauraramirez220612/TeamFourHYF/blob/image/Image%20folder/Web%20capture_20-4-2021_165538_docs.google.com.jpeg)
+- [Screenshot image 6](Image%20folder/Web%20capture_20-4-2021_165512_hackyourfuture.be.jpeg)
+- [Screenshot image 7](Image%20folder/Web%20capture_20-4-2021_165538_docs.google.com.jpeg)
 
 ## Contributors
 
@@ -57,6 +57,8 @@ Intended final result
 
 [Unmesh](https://github.com/unmeshvrije)
 
+[Stéphane](https://github.com/snicoll)
+
 ## License & Copyright
 
-Licensed under the [MIT LICENSE](https://github.com/bringmetheaxx/TeamFour/blob/main/LICENSE)
+Licensed under the [MIT LICENSE](https://github.com/lauraramirez220612/TeamFourHYF/blob/main/LICENSE)
