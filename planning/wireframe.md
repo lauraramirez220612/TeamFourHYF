@@ -1,8 +1,8 @@
 # Wireframe
 
-As part of the our planning stage to recreate the **Hack Your Future website** , we make four pages of wireframe based on the identified backlog.
+As part of our planning stage to recreate the **Hack Your Future website** , we make four pages of wireframe based on the identified backlog.
 
-# Clients
+## Clients:
 
 * Can learn about the organization service and background
 * Can register as:
