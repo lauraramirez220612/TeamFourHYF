@@ -16,7 +16,7 @@ We didn't removed any extra step, we changed some ideas, somethings were add, bu
 
 ## Stop Doing
 
-- So long calls.
+- So nice calls, very interesting.
 
 ## Continue Doing
 
