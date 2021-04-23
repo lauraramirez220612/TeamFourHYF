@@ -1,32 +1,35 @@
-# Retrospective
+# Retrospective  Part 1 
 
 ## Strategy vs. Board
 
 ##### What parts of your plan went as expected?
-We managed to finish everything we wanted to do at the expected time. 
+All the Planning this week is all good.
+Everybody work in separate branches and they can make PR and Merge.
 
 ##### What parts of your plan did not work out?
-Our call was always too long and sometimes we didn't get in the topic planned. 
+This week we did not communicate each other so well as we expected because this week colaborators did not have enough time.
 
 ##### Did you need to add things that weren't in your strategy?
-We didn't include "could-have" and "should-have" in our strategy, but in the end we had completed both of them. 
+Not yet.
 
 ##### Or remove extra steps?
-We didn't removed any extra step, we changed some ideas, somethings were add, but nothing was removed. 
+Not yet
 
 ## Stop Doing
 
-- So long calls.
+- Nothing.
 
 ## Continue Doing
 
-- Communication in the slack.
-- How we divided the tasks.
+- Communication in the slack
+- Sharing interesting tutorials
 - Recording video calls.
+- Helping each other
 
 
 ## Start Doing
 
+- Coding.
 - Count our hours to dedicate the necessary of ourselves.
 - Be better organized.
 - Everybody reviewing the pull requests.
@@ -39,3 +42,6 @@ We didn't removed any extra step, we changed some ideas, somethings were add, bu
 - How to do a good planning.
 - How to divide the tasks.
 - How to support to each other.
+- We do not need to fork when we have access to the repo.
+- Collaborating in the Github.
+
