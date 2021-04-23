@@ -12,22 +12,23 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       |    Axil             |    Daniel   |    Laura    |    Moamin         |        Senait       |        Tatsiana     |
-| --------- | :---------:         | :---------: | :---------: | :---------:       | :-----------------: | :-----------------: |
-| Monday    | 13-14/16-19/21-24   |   all day   | 1700-2300   | 10-1300 14-1800   | 1700-2200           |      15.00-19.00    |
-| Tuesday   | 13-14/16-19/21-24   |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      13.00-20.00    |
-| Wednesday | 13-14/16-19/21-24   |after 16:30  |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      13.00-00.00    |
-| Thursday  | 13-14/16-19/21-24   |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      All day        |
-| Friday    | 09-12/21-24         |   all day   |  1700-2300  | 10-1300 14-1800   | 1700-2200           |      All day        |
+| Day       |    Monday        |    Tuesday      |    Wednesday    |    Thursday     |     Friday   |   Saturday   |
+| --------- |    :--------:    | :---------:     | :---------:     | :---------:     | :-----------:| :----------: |
+| Axil      |13-14/16-19/21-24 |13-14/16-19/21-24|13-14/16-19/21-24|13-14/16-19/21-24| 09-12/21-24  | unvailable   |
+| Daniel    |  1000-2000       |  2200-2400      |  1700-2200      |  1000-2000      |   1000-2000  |   1000-2000  |
+| Laura     |                  |                 |                 |                 |              |              |
+| Moamin    |  10-1300 14-1900 | 10-1300 14-1900 |     9-1200      | 10-1300 14-1900 |  1700-2200   |              |
+| Senait    |                  |                 |                 |                 |              |              |
+| Tatsiana  |  9.00-16.00                |     9.00-16.00              |                  9.00-16.00 |       9.00-16.00            |     9.00-16.00           |     9.00-16.00           |
 
 ### How many hours everyone has per day:
 
 - Axil: _7h_;
-- Daniel: _9h_;
-- Moamin: _6h_;
+- Daniel: _6h_;
+- Moamin: _6h_, flexible timing;
 - Laura: _6h_;
-- Senait: _5h_;
-- Tatsiana: _6h_;
+- Senait: _6h_;
+- Tatsiana: _5h_;
 
 ## Asking for Help
 
