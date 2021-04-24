@@ -10,22 +10,23 @@
 
 /* BEGIN header by Daniel */
 header {
-  display: inline-flex;
+  display: flex;
   padding: 15px 60px;
+  justify-content: center;
 }
 
 .logo img {
-  width: 60%;
+  width: 95px;
 }
 
 .navbar {
-  width: 800px;
+  width: 1000px;
 }
 
 .navbar ul {
-  display: inline-flex;
+  display: flex;
   list-style: none;
-  float: right;
+  justify-content: flex-end;
 }
 
 .navbar ul li {
@@ -34,7 +35,7 @@ header {
 .navbar ul li a {
   font-family: "Work Sans", sans-serif;
   font-weight: 300;
-  font-size: 0.8em;
+  font-size: 0.77em;
   text-transform: uppercase;
   color: rgb(127, 127, 127);
   text-decoration: none;
