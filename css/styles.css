@@ -18,11 +18,13 @@ header {
 
 .logo img {
   width: 95px;
+  cursor: pointer;
 }
 
 .navbar ul {
   display: flex;
   list-style: none;
+  cursor: pointer;
 }
 
 .navbar ul li a {
