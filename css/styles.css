@@ -1,0 +1,46 @@
+/* import fonts Space Mono & Work Sans */
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+/* reset CSS attributes */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* BEGIN header by Daniel */
+header {
+  display: flex;
+  padding: 15px 60px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo img {
+  width: 95px;
+  cursor: pointer;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+  cursor: pointer;
+}
+
+.navbar ul li a {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
+  font-size: 0.77em;
+  text-transform: uppercase;
+  color: rgb(127, 127, 127);
+  text-decoration: none;
+  padding: 10px;
+  margin-left: 30px;
+  /* margin: 0 20px; */
+}
+
+.navbar ul li a:hover {
+  color: black;
+  border-bottom: 3px solid rgb(74, 80, 187);
+}
+/* END header by Daniel */
