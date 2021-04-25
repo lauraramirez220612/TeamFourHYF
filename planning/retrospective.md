@@ -1,18 +1,18 @@
-# Retrospective
+# Retrospective Part1
 
 ## Strategy vs. Board
 
 ##### What parts of your plan went as expected?
-We managed to finish everything we wanted to do at the expected time. 
+This week we planned to make all documentation files.We trying to resolve all our issues with GitHub ,pull requests and branches
 
 ##### What parts of your plan did not work out?
-Our call was always too long and sometimes we didn't get in the topic planned. 
+The most of the peoples of our group were busy this week,so our communication was not so often as before.
 
 ##### Did you need to add things that weren't in your strategy?
-We didn't include "could-have" and "should-have" in our strategy, but in the end we had completed both of them. 
+Not yet.
 
 ##### Or remove extra steps?
-We didn't removed any extra step, we changed some ideas, somethings were add, but nothing was removed. 
+We didn't removed any extra step yet ,but possible when we start to write a code ,we ll simplify our plan
 
 ## Stop Doing
 
@@ -20,9 +20,11 @@ We didn't removed any extra step, we changed some ideas, somethings were add, bu
 
 ## Continue Doing
 
+- Manage the time
 - Communication in the slack.
 - How we divided the tasks.
 - Recording video calls.
+- Share interesting tutorials
 
 
 ## Start Doing
