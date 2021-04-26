@@ -62,7 +62,7 @@ header {
 }
 
 .section1 p{
-  padding: 10px 0;
+padding: 10px 0;
 color: rgb(45, 48, 55);
 text-align: left;
 font-size: .95rem;
@@ -70,14 +70,14 @@ line-height: 25px;
 text-align: justify;
 }
 
-.section1Btn{
+.section a{
   margin: 10px 0;
   padding: 10px 20px;
   background-color: transparent;
-  border: none;
   text-transform: uppercase;
   color: rgb(74, 80, 187);
   font-family: "Work Sans", sans-serif;
+  text-decoration: none;
   
 }
 
