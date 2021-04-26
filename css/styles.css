@@ -47,7 +47,7 @@ header {
 }
 /* END header by Daniel */
 
-/* BEGIN section 1 by senait */
+/* BEGIN background banner by senait */
 
 .banner {background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url("https://raw.githubusercontent.com/HackYourFutureBelgium/hackyourfuture.be/main/src/assets/images/home-header.jpg");
   display:flex;
@@ -83,4 +83,4 @@ header {
   text-align: center;
   max-width: none;}
 
-/* END section 1 by Senait */
+/* END background banner 1 by Senait */
