@@ -141,14 +141,17 @@ header {
 /* End of section 7 by Moamin*/
 /* BEGIN section8 by Daniel */
 
-.section8 {
+.containerMap {
   display: flex;
+}
+
+.section8 {
+  display: grid;
   flex-direction: column;
   width: 40%;
   height: 100%;
   background-color: rgb(74, 80, 187);
   padding: 50px 100px;
-  margin-left: 8px;
 }
 
 .input {
@@ -195,3 +198,20 @@ header {
 }
 
 /* END section8 by Daniel */
+
+/* BEGIN section9/map by Daniel */
+
+.section9 {
+  display: inline-block;
+  float: right;
+  width: 60%;
+  justify-content: space-between;
+  margin-left: 60px;
+}
+
+#mapid {
+  height: 680px;
+}
+
+/* END section9/map by Daniel */
+
