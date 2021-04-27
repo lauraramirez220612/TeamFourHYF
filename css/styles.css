@@ -172,6 +172,7 @@ header {
 }
 /* END background banner 1 by Senait */
 
+
 /*BEGIN section 4 by senait */
 .section4 {
   display: flex;
@@ -389,6 +390,33 @@ header {
 
 /* END section5 by Daniel */
 
+
+/*Starting section 7 by Moamin*/
+.section7 {
+  padding: 10px 5px;
+  margin: 0px;
+  background-color: rgba(255, 255, 255, 0.959);
+  align-items: flex-start;
+  max-width: max-content;
+}
+
+.section7 h3 {
+  color: rgb(74, 80, 187);
+  font-size: 1.5rem;
+  font-family: "work sans", "sans";
+  text-transform: uppercase;
+  text-align: start;
+  line-height: 40px;
+}
+
+.section7 p {
+  color: black;
+  text-transform: none;
+  padding: 10px 0;
+}
+
+/* End of section 7 by Moamin*/
+
 /* BEGIN section8 by Daniel */
 
 .containerMap {
@@ -449,6 +477,7 @@ header {
 
 /* END section8 by Daniel */
 
+
 /* BEGIN section9/map by Daniel */
 
 .section9 {
@@ -464,3 +493,54 @@ header {
 }
 
 /* END section9/map by Daniel */
+
+
+
+/*Starting the footer by Moamin*/
+.footer {
+  height: 200px;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.footer h3 {
+  margin: 20px auto;
+  font-family: "work sans", "sans";
+  color: rgb(74, 80, 187);
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.footer p {
+  color: black;
+  font-family: monospace;
+  text-align: center;
+  width: 150px;
+  line-break: auto;
+  margin: 10px auto;
+  line-height: 1.8rem;
+}
+
+.footer nav {
+  word-spacing: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.footer a {
+  color: rgb(74, 80, 187);
+}
+
+.footer_mail {
+  text-align: center;
+  height: 100px;
+}
+.footer_mail a {
+  color: black;
+  font-family: monospace;
+  font-size: 1rem;
+  text-decoration: none;
+}
+/* end of footer by Moamin*/
+
