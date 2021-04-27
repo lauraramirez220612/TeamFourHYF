@@ -170,18 +170,18 @@ header {
   text-align: center;
   max-width: none;
 }
-
 /* END background banner 1 by Senait */
 
 /*BEGIN section 4 by senait */
-.section4{     display: flex;
+.section4 {
+  display: flex;
   justify-content: flex-end;
   width: 100%;
   padding: 50px 0px;
   position: relative;
-  }
+}
 
-.s4border{
+.s4border {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -191,13 +191,14 @@ header {
   margin: 0px;
 }
 
-.s4container{
-display: flex;
-background-color: rgb(248, 249, 252);
-padding: 100px;
-flex-direction: column;}
+.s4container {
+  display: flex;
+  background-color: rgb(248, 249, 252);
+  padding: 100px;
+  flex-direction: column;
+}
 
-.s4title{
+.s4title {
   font-size: 24px;
   line-height: 140%;
   margin-bottom: 20px;
@@ -206,10 +207,9 @@ flex-direction: column;}
   font-weight: 700;
   color: rgb(28, 34, 148);
   text-align: left;
-
 }
 
-.textblock{
+.textblock {
   display: flex;
   flex-wrap: wrap;
   -webkit-box-flex: 1;
@@ -218,19 +218,27 @@ flex-direction: column;}
   justify-content: space-between;
 }
 
-.texts4{
+.texts4 {
   display: flex;
   width: 40%;
   flex-direction: column;
-  align-items: flex-start}
+  align-items: flex-start;
+}
 
-.imgsec4-1, .imgsec4-2, .imgsec4-3, .imgsec4-4{
-margin-bottom: 20px;
-min-height: 70px;
-object-fit: contain;}
+.imgsec4-1,
+.imgsec4-2,
+.imgsec4-3,
+.imgsec4-4 {
+  margin-bottom: 20px;
+  min-height: 70px;
+  object-fit: contain;
+}
 
-.sec4-P1, .sec4-P2, .sec4-P3, .sec4-p4
-{ color: rgb(45, 48, 55);
+.sec4-P1,
+.sec4-P2,
+.sec4-P3,
+.sec4-p4 {
+  color: rgb(45, 48, 55);
   text-align: left;
   max-width: none;
   line-height: 160%;
@@ -239,11 +247,11 @@ object-fit: contain;}
   margin: 0px;
   white-space: pre-wrap;
   word-break: break-word;
-  font-weight: 300;}
+  font-weight: 300;
+}
 
-
-
-.s4h3{font-size: 20px;
+.s4h3 {
+  font-size: 20px;
   line-height: 140%;
   margin-bottom: 20px;
   text-transform: none;
@@ -251,10 +259,135 @@ object-fit: contain;}
   font-weight: 700;
   color: rgb(28, 34, 148);
   text-align: left;
-  max-width: none;}
-
+  max-width: none;
+}
 
 /* END section 4 by senait */
+
+/* BEGIN section5 by Daniel */
+
+.section5 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+  z-index: 1;
+}
+
+.section5 .container {
+}
+
+.section5 .frame {
+  display: flex;
+  justify-items: center;
+  min-height: 500px;
+  position: relative;
+}
+
+.section5buttonleft:hover {
+  transform: translateY(-50%) scale(1.2);
+}
+
+.section5buttonright:hover {
+  transform: translateY(-50%) scale(1.2);
+}
+
+.testimonials {
+  /* position: absolute;
+  width: 400%;
+  box-sizing: border-box; */
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  justify-self: center;
+  transform: translateX(0%);
+  transition: transform 0.3s ease 0s;
+}
+
+.testimonial1 {
+  width: 50%;
+  max-width: 100%;
+  min-height: 500px;
+  opacity: 1;
+  transition: all 0.3s ease 0s;
+  transform: none;
+  text-align: center;
+  box-shadow: rgb(0 0 0 / 8%) 0px 0px 53px;
+  padding: 50px;
+}
+
+.zeynep {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  margin: auto auto 20px;
+  background-position: center center;
+  filter: grayscale(100%);
+  align-items: stretch;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  z-index: 0;
+  position: static;
+  background: url(https://hackyourfuture.be/static/hanim-69b9200a8e61079c81f7185a12f6f3c6.jpg)
+    0% 0% / cover transparent;
+  flex: 0 1 100%;
+}
+
+/* text of section5 */
+
+.section5 .h2text {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+}
+
+.section5 .h4 {
+  font-size: 18px;
+  line-height: 140%;
+  text-transform: none;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: center;
+  max-width: none;
+}
+
+.section5 .x {
+  color: #4a50bb;
+  font-weight: 600;
+  text-align: center;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  margin: 0px 0px 20px;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.section5 .para {
+  color: rgb(45, 48, 55);
+  text-align: center;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+/* END section5 by Daniel */
 
 /* BEGIN section8 by Daniel */
 
