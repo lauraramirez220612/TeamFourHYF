@@ -71,6 +71,108 @@ header {
 }
 /* END header by Daniel */
 
+/* BEGIN background banner by senait */
+
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://raw.githubusercontent.com/HackYourFutureBelgium/hackyourfuture.be/main/src/assets/images/home-header.jpg");
+  display: flex;
+  width: 100%;
+  height: 40%;
+  padding: 50px 20px;
+  background-position: center;
+}
+
+.frame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
+
+.text-box {
+  display: flex;
+  margin: 60px 0px 30px;
+  align-items: center;
+  max-width: 800px;
+}
+
+.text {
+  font-size: 64px;
+  line-height: 120%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "work-sans", sans-serif;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+  max-width: none;
+}
+
+/* END background banner 1 by Senait */
+
+/* Starting of section 1 by Moamin*/
+
+.flex {
+  display: flex;
+  position: relative;
+}
+
+.section1 .text {
+  margin: 0;
+  padding: 10px 30px;
+  font-family: monospace;
+}
+
+.section1 h2 {
+  padding: 10px 0;
+  font-family: "Work Sans", sans-serif;
+  color: rgb(74, 80, 187);
+  text-transform: uppercase;
+}
+
+.section1 p {
+  padding: 10px 0;
+  color: rgb(45, 48, 55);
+  text-align: left;
+  font-size: 0.95rem;
+  line-height: 25px;
+  text-align: justify;
+}
+
+.section1Btn {
+  margin: 5px 0 0 -30px;
+  padding: 10px 20px 10px 30px;
+  text-transform: uppercase;
+  color: rgb(74, 80, 187);
+  font-family: "Work Sans", sans-serif;
+  text-decoration: none;
+}
+
+.section1Btn:hover {
+  background-color: rgba(223, 219, 219, 0.904);
+  cursor: pointer;
+}
+
+.section1 span {
+  color: rgb(74, 80, 187);
+}
+
+/* section 2 image*/
+.section2 {
+  width: 50%;
+}
+.section1 img {
+  width: 450px;
+  padding: 0 10px;
+  margin: 0 10px;
+}
+
+/* End of section 1 and section 2*/
+
 /* BEGIN section-3 by Tatsiana */
 .sc-3 {
   display: flex;
@@ -174,54 +276,137 @@ header {
 }
 /* END section-3 by Tatsiana*/
 
-/* BEGIN background banner by senait */
-
-.banner {background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url("https://raw.githubusercontent.com/HackYourFutureBelgium/hackyourfuture.be/main/src/assets/images/home-header.jpg");
-  display:flex;
+/*BEGIN section 4 by senait */
+.section4 {
+  display: flex;
+  justify-content: flex-end;
   width: 100%;
-  height: 40%;
-  padding: 50px 20px;
-  background-position: center;
-  }
-  
-  .frame{     
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      width: 100%;
-      max-width: 1280px;
-      padding: 10px 0px;
-      margin: 0px auto; }
+  padding: 50px 0px;
+  position: relative;
+}
 
-      .text-box{
-          display: flex;
-          margin: 60px 0px 30px;
-          align-items: center;
-          max-width: 800px;
-        }
+.s4border {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px;
+}
 
-.text{font-size:64px;
-  line-height: 120%;
+.s4container {
+  display: flex;
+  background-color: rgb(248, 249, 252);
+  padding: 100px;
+  flex-direction: column;
+}
+
+.s4title {
+  font-size: 24px;
+  line-height: 140%;
   margin-bottom: 20px;
   text-transform: uppercase;
-  font-family: "work-sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
   font-weight: 700;
-  color:white;
-  text-align: center;
-  max-width: none;}
+  color: rgb(28, 34, 148);
+  text-align: left;
+}
 
-/* END background banner 1 by Senait */
+.textblock {
+  display: flex;
+  flex-wrap: wrap;
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+
+.texts4 {
+  display: flex;
+  width: 40%;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.imgsec4-1,
+.imgsec4-2,
+.imgsec4-3,
+.imgsec4-4 {
+  margin-bottom: 20px;
+  min-height: 70px;
+  object-fit: contain;
+}
+
+.sec4-P1,
+.sec4-P2,
+.sec4-P3,
+.sec4-p4 {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.s4h3 {
+  font-size: 20px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: none;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+/* END section 4 by senait */
+
+/*Starting section 7 by Moamin*/
+.section7 {
+  padding: 10px 5px;
+  margin: 0px;
+  background-color: rgba(255, 255, 255, 0.959);
+  align-items: flex-start;
+  max-width: max-content;
+}
+
+.section7 h3 {
+  color: rgb(74, 80, 187);
+  font-size: 1.5rem;
+  font-family: "work sans", "sans";
+  text-transform: uppercase;
+  text-align: start;
+  line-height: 40px;
+}
+
+.section7 p {
+  color: black;
+  text-transform: none;
+  padding: 10px 0;
+}
+
+/* End of section 7 by Moamin*/
 
 /* BEGIN section8 by Daniel */
 
-.section8 {
+.containerMap {
   display: flex;
+}
+
+.section8 {
+  display: grid;
   flex-direction: column;
   width: 40%;
   height: 100%;
   background-color: rgb(74, 80, 187);
   padding: 50px 100px;
-  margin-left: 8px;
 }
 
 .input {
@@ -268,3 +453,67 @@ header {
 }
 
 /* END section8 by Daniel */
+
+/* BEGIN section9/map by Daniel */
+
+.section9 {
+  display: inline-block;
+  float: right;
+  width: 60%;
+  justify-content: space-between;
+  margin-left: 60px;
+}
+
+#mapid {
+  height: 680px;
+}
+
+/* END section9/map by Daniel */
+
+/*Starting the footer by Moamin*/
+.footer {
+  height: 200px;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.footer h3 {
+  margin: 20px auto;
+  font-family: "work sans", "sans";
+  color: rgb(74, 80, 187);
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.footer p {
+  color: black;
+  font-family: monospace;
+  text-align: center;
+  width: 150px;
+  line-break: auto;
+  margin: 10px auto;
+  line-height: 1.8rem;
+}
+
+.footer nav {
+  word-spacing: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.footer a {
+  color: rgb(74, 80, 187);
+}
+
+.footer_mail {
+  text-align: center;
+  height: 100px;
+}
+.footer_mail a {
+  color: black;
+  font-family: monospace;
+  font-size: 1rem;
+  text-decoration: none;
+}
+/* end of footer by Moamin*/
