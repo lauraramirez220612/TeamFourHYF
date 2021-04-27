@@ -172,7 +172,6 @@ header {
 }
 /* END background banner 1 by Senait */
 
-
 /*BEGIN section 4 by senait */
 .section4 {
   display: flex;
@@ -297,9 +296,6 @@ header {
 }
 
 .testimonials {
-  /* position: absolute;
-  width: 400%;
-  box-sizing: border-box; */
   display: flex;
   justify-items: center;
   justify-content: center;
@@ -348,7 +344,7 @@ header {
   font-family: "Work Sans", sans-serif;
   font-weight: 700;
   color: rgb(28, 34, 148);
-  text-align: left;
+  text-align: center;
 }
 
 .section5 .h4 {
@@ -389,7 +385,6 @@ header {
 }
 
 /* END section5 by Daniel */
-
 
 /*Starting section 7 by Moamin*/
 .section7 {
@@ -477,7 +472,6 @@ header {
 
 /* END section8 by Daniel */
 
-
 /* BEGIN section9/map by Daniel */
 
 .section9 {
@@ -489,12 +483,10 @@ header {
 }
 
 #mapid {
-  height: 680px;
+  height: 704px;
 }
 
 /* END section9/map by Daniel */
-
-
 
 /*Starting the footer by Moamin*/
 .footer {
@@ -543,4 +535,3 @@ header {
   text-decoration: none;
 }
 /* end of footer by Moamin*/
-
