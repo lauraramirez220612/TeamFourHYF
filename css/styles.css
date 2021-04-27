@@ -73,42 +73,72 @@ header {
 
 /* BEGIN background banner by senait */
 
-.banner {background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url("https://raw.githubusercontent.com/HackYourFutureBelgium/hackyourfuture.be/main/src/assets/images/home-header.jpg");
-  display:flex;
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://raw.githubusercontent.com/HackYourFutureBelgium/hackyourfuture.be/main/src/assets/images/home-header.jpg");
+  display: flex;
   width: 100%;
   height: 40%;
   padding: 50px 20px;
   background-position: center;
-  }
-  
-  .frame{     
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      width: 100%;
-      max-width: 1280px;
-      padding: 10px 0px;
-      margin: 0px auto; }
+}
 
-      .text-box{
-          display: flex;
-          margin: 60px 0px 30px;
-          align-items: center;
-          max-width: 800px;
-        }
+.frame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
 
-.text{font-size:64px;
+.text-box {
+  display: flex;
+  margin: 60px 0px 30px;
+  align-items: center;
+  max-width: 800px;
+}
+
+.text {
+  font-size: 64px;
   line-height: 120%;
   margin-bottom: 20px;
   text-transform: uppercase;
   font-family: "work-sans", sans-serif;
   font-weight: 700;
-  color:white;
+  color: white;
   text-align: center;
-  max-width: none;}
+  max-width: none;
+}
 
 /* END background banner 1 by Senait */
 
+/*Starting section 7 by Moamin*/
+.section7 {
+  padding: 10px 5px;
+  margin: 0px;
+  background-color: rgba(255, 255, 255, 0.959);
+  align-items: flex-start;
+  max-width: max-content;
+}
+
+.section7 h3 {
+  color: rgb(74, 80, 187);
+  font-size: 1.5rem;
+  font-family: "work sans", "sans";
+  text-transform: uppercase;
+  text-align: start;
+  line-height: 40px;
+}
+
+.section7 p {
+  color: black;
+  text-transform: none;
+  padding: 10px 0;
+}
+
+/* End of section 7 by Moamin*/
 /* BEGIN section8 by Daniel */
 
 .section8 {
