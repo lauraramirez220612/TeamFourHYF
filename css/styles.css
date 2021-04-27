@@ -173,6 +173,7 @@ header {
 
 /* END background banner 1 by Senait */
 
+
 /*BEGIN section 4 by senait */
 .section4{     display: flex;
   justify-content: flex-end;
@@ -256,6 +257,32 @@ object-fit: contain;}
 
 /* END section 4 by senait */
 
+
+/*Starting section 7 by Moamin*/
+.section7 {
+  padding: 10px 5px;
+  margin: 0px;
+  background-color: rgba(255, 255, 255, 0.959);
+  align-items: flex-start;
+  max-width: max-content;
+}
+
+.section7 h3 {
+  color: rgb(74, 80, 187);
+  font-size: 1.5rem;
+  font-family: "work sans", "sans";
+  text-transform: uppercase;
+  text-align: start;
+  line-height: 40px;
+}
+
+.section7 p {
+  color: black;
+  text-transform: none;
+  padding: 10px 0;
+}
+
+/* End of section 7 by Moamin*/
 /* BEGIN section8 by Daniel */
 
 .containerMap {
@@ -331,3 +358,4 @@ object-fit: contain;}
 }
 
 /* END section9/map by Daniel */
+
