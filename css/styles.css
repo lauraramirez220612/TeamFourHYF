@@ -195,3 +195,49 @@ header {
 }
 
 /* END section8 by Daniel */
+/*Starting the footer by Moamin*/
+.footer {
+  height: 200px;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.footer h3 {
+  margin: 20px auto;
+  font-family: "work sans", "sans";
+  color: rgb(74, 80, 187);
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.footer p {
+  color: black;
+  font-family: monospace;
+  text-align: center;
+  width: 150px;
+  line-break: auto;
+  margin: 10px auto;
+  line-height: 1.8rem;
+}
+
+.footer nav {
+  word-spacing: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.footer a {
+  color: rgb(74, 80, 187);
+}
+
+.footer_mail {
+  text-align: center;
+  height: 100px;
+}
+.footer_mail a {
+  color: black;
+  font-family: monospace;
+  font-size: 1rem;
+  text-decoration: none;
+}
