@@ -71,6 +71,65 @@ header {
 }
 /* END header by Daniel */
 
+/* Starting of section 1 by Moamin*/
+
+.flex {
+  display: flex;
+  position: relative;
+}
+
+.section1 .text {
+  margin: 0;
+  padding: 10px 30px;
+  font-family: monospace;
+}
+
+.section1 h2 {
+  padding: 10px 0;
+  font-family: "Work Sans", sans-serif;
+  color: rgb(74, 80, 187);
+  text-transform: uppercase;
+}
+
+.section1 p {
+  padding: 10px 0;
+  color: rgb(45, 48, 55);
+  text-align: left;
+  font-size: 0.95rem;
+  line-height: 25px;
+  text-align: justify;
+}
+
+.section1Btn {
+  margin: 5px 0 0 -30px;
+  padding: 10px 20px 10px 30px;
+  text-transform: uppercase;
+  color: rgb(74, 80, 187);
+  font-family: "Work Sans", sans-serif;
+  text-decoration: none;
+}
+
+.section1Btn:hover {
+  background-color: rgba(223, 219, 219, 0.904);
+  cursor: pointer;
+}
+
+.section1 span {
+  color: rgb(74, 80, 187);
+}
+
+/* section 2 image*/
+.section2 {
+  width: 50%;
+}
+.section1 img {
+  width: 450px;
+  padding: 0 10px;
+  margin: 0 10px;
+}
+
+/* End of section 1 and section 2*/
+
 /* BEGIN background banner by senait */
 
 .banner {
