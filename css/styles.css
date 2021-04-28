@@ -742,6 +742,118 @@ header {
 }
 /* end of footer by Moamin*/
 
+/* BEGIN apply programme by senait*/
+
+.apply-main{display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  margin: 0px auto;
+  -webkit-box-flex: 1;
+  width: 100%;
+  box-sizing: border-box;}
+  
+  .apply-container {display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+  z-index: 1;
+  flex: 0 0 auto;}
+  
+  .apply-box{display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;}
+  
+  .apply-frame {display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  max-width: 45%;}
+  
+  
+  .apply-h1 {font-size: 24px;
+  line-height: 120%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(74, 80, 187);
+  text-align: left;
+  max-width: none;}
+  
+  
+  
+  .apply-p1{color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 10px 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;}
+  
+  .apply-p1 > b {display: inline;
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+  font-family: "Space Mono", monospace;}
+  
+  .apply-p2 , .apply-p3{       
+    text-decoration: underline;
+    color: rgb(74, 80, 187);
+    text-align: left;
+    max-width: none;
+    line-height: 160%;
+    font-size: 16px;
+    font-family: "Space Mono", monospace;
+     margin: 10px 0px;
+     white-space: pre-wrap;
+     word-break: break-word;
+     font-weight: 300;
+   }
+
+   .link-apply{display: inline-flex;
+    font-size: 12px;
+    line-height: 160%;
+    text-decoration: none;
+    background-color: rgb(74, 80, 187);
+    color: white;
+    font-weight: 600;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    align-items: center;
+    font-family: "Work Sans", sans-serif;}
+    
+    
+    .img-pbox{
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      width: 50%;
+      height: 100%;
+      z-index: 1;;}
+    
+    .apply-img{
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 0px;
+    }
+    
+    /* END apply box by Senait */
+    
+
 /* section1AB by Daniel*/
 
 .section1AB {
@@ -827,6 +939,7 @@ header {
   text-align: center;
   max-width: none;
 }
+
 /*END section2AB by Daniel*/
 
 /* section3AB by Tatsiana*/
@@ -887,16 +1000,8 @@ header {
 }
 .section3ABtext {
   color: rgb(45, 48, 55);
-  text-align: left;
-  max-width: none;
-  line-height: 160%;
-  font-size: 16px;
-  font-family: "Space Mono", monospace;
-  margin: 0px;
-  white-space: pre-wrap;
-  word-break: break-word;
-  font-weight: 300;
-}
+  margin: 0px;}
+
 /*END   section3AB by Tatsiana*/
 
 /*BEGIN  section4Pa by Tatsiana*/
