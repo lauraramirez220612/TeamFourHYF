@@ -119,12 +119,18 @@ header {
 .flex {
   display: flex;
   position: relative;
+  padding-top: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
 }
 
 .section1 .text {
   margin: 0;
   padding: 10px 30px;
-  font-family: monospace;
+  font-family: "Space Mono";
+  display: grid;
+  flex-direction: column;
+  align-content: flex-start;
 }
 
 .section1 h2 {
@@ -132,6 +138,8 @@ header {
   font-family: "Work Sans", sans-serif;
   color: rgb(74, 80, 187);
   text-transform: uppercase;
+  font-size: 2rem;
+  text-align-last: left;
 }
 
 .section1 p {
@@ -145,11 +153,14 @@ header {
 
 .section1Btn {
   margin: 5px 0 0 -30px;
-  padding: 10px 20px 10px 30px;
+  padding: 0 20px 0 30px;
+  text-align: left;
   text-transform: uppercase;
   color: rgb(74, 80, 187);
   font-family: "Work Sans", sans-serif;
   text-decoration: none;
+  font-size: 0.75rem;
+  max-width: max-content;
 }
 
 .section1Btn:hover {
@@ -166,7 +177,8 @@ header {
   width: 50%;
 }
 .section1 img {
-  width: 450px;
+  float: right;
+  width: 500px;
   padding: 0 10px;
   margin: 0 10px;
 }
@@ -1340,4 +1352,3 @@ header {
   z-index: auto;
   position: relative;
 }
-/* END section4P(3) by Tatsiana*/
