@@ -1003,3 +1003,226 @@ header {
   margin: 0px;}
 
 /*END   section3AB by Tatsiana*/
+
+/*BEGIN  section4Pa by Tatsiana*/
+.section4Pa {
+  display: flex;
+  -moz-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
+  background-color: rgba(0, 0, 0, 0);
+  z-index: 1;
+  flex: 0 0 auto;
+}
+.sect4Pcontainer {
+  display: flex;
+  flex-direction: column;
+  -moz-box-pack: center;
+  justify-content: center;
+  -moz-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;
+}
+.sect4Pcontent {
+  width: 100%;
+  display: flex;
+  margin: 50px 0px;
+}
+.sect4PcontentBox {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  -moz-box-pack: start;
+  justify-content: flex-start;
+  padding: 0px 50px 0px 0px;
+  width: 50%;
+  order: 1;
+  transform: translateY(-56px);
+}
+.sect4PTitle1 {
+  font-size: 20px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+.sect4PTitle2 {
+  font-size: 20px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: none;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+.sect4PText {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: 470px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  margin-bottom: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+.section4PBtn {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -moz-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+  background-color: transparent;
+  color: rgb(74, 80, 187);
+}
+
+.sect4Pimgbox {
+  display: flex;
+  width: 50%;
+  height: 100%;
+  min-height: 400px;
+  order: 2;
+  padding: 0px 0px 0px 50px;
+  -moz-box-align: stretch;
+  align-items: stretch;
+}
+.sect4Pimg1 {
+  -moz-box-align: stretch;
+  align-items: stretch;
+  background: transparent
+    url(https://raw.githubusercontent.com/HackYourFutureBelgium/hackyourfuture.be/main/src/assets/images/bootcamp.jpg)
+    repeat scroll 0% 0% / cover;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 100%;
+  flex-direction: row;
+  -moz-box-flex: 0;
+  height: 100%;
+  -moz-box-pack: start;
+  justify-content: flex-start;
+  margin: 0px;
+  max-height: none;
+  max-width: none;
+  padding: 0px;
+  width: 100%;
+  z-index: auto;
+  position: relative;
+}
+.sect4PcontentBoxRight {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;
+  -moz-box-pack: start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px 50px;
+  width: 50%;
+  order: 2;
+}
+.sect4PTitleRight {
+  font-size: 20px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: none;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+.sect4PTextRight {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: 470px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  margin-bottom: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 30;
+}
+.sect4PimgboxLeft {
+  display: flex;
+  width: 50%;
+  height: 100%;
+  min-height: 400px;
+  order: 1;
+  padding: 0px 50px 0px 0px;
+  -moz-box-align: stretch;
+  align-items: stretch;
+}
+.sect4Pimg2 {
+  -moz-box-align: stretch;
+  align-items: stretch;
+  background: transparent
+    url(https://raw.githubusercontent.com/HackYourFutureBelgium/hackyourfuture.be/main/src/assets/images/mentorship.jpg)
+    repeat scroll 0% 0% / cover;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 100%;
+  flex-direction: row;
+  -moz-box-flex: 0;
+  height: 100%;
+  -moz-box-pack: start;
+  justify-content: flex-start;
+  margin: 0px;
+  max-height: none;
+  max-width: none;
+  padding: 0px;
+  width: 100%;
+  z-index: auto;
+  position: relative;
+}
+.sect4Pimg3 {
+  -moz-box-align: stretch;
+  align-items: stretch;
+  background: transparent
+    url(https://raw.githubusercontent.com/HackYourFutureBelgium/hackyourfuture.be/main/src/assets/images/hack-the-talk.jpg)
+    repeat scroll 0% 0% / cover;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 100%;
+  flex-direction: row;
+  -moz-box-flex: 0;
+  height: 100%;
+  -moz-box-pack: start;
+  justify-content: flex-start;
+  margin: 0px;
+  max-height: none;
+  max-width: none;
+  padding: 0px;
+  width: 100%;
+  z-index: auto;
+  position: relative;
+}
+/* END section4P(3) by Tatsiana*/
