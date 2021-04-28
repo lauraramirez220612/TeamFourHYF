@@ -827,8 +827,9 @@ header {
   text-align: center;
   max-width: none;
 }
+/*END section2AB by Daniel*/
 
-/* Begin section3AB by Tatsiana*/
+/* section3AB by Tatsiana*/
 .section3AB {
   display: flex;
   -moz-box-pack: center;
@@ -896,4 +897,4 @@ header {
   word-break: break-word;
   font-weight: 300;
 }
-/* End section3AB by Tatsiana*/
+/*END   section3AB by Tatsiana*/
