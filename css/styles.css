@@ -1601,6 +1601,7 @@ ul {
   display: flex;
   overflow: auto;
   position: relative;
+  justify-content: space-between;
 }
 .ourteam .coach {
   width: 30%;
@@ -1635,6 +1636,7 @@ ul {
   filter: grayscale(100%);
   border-radius: 100%;
   margin: 20px auto;
+  object-fit: cover;
 }
 
 .ourteam a {
