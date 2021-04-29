@@ -604,10 +604,10 @@ header {
 
 /* END section 6 by Tatsiana */
 
-
 /* BEGIN Section 7 & donation box by Moamin & senait */
 
-.donation-box {display: flex;
+.donation-box {
+  display: flex;
   -webkit-box-pack: center;
   justify-content: center;
   width: 100%;
@@ -616,10 +616,11 @@ header {
   box-shadow: none;
   background: rgb(248, 249, 252);
   z-index: 1;
-  flex: 0 0 auto;}
-  
-  
-  .d-container{display: flex;
+  flex: 0 0 auto;
+}
+
+.d-container {
+  display: flex;
   flex-direction: column;
   -webkit-box-pack: center;
   justify-content: center;
@@ -628,19 +629,24 @@ header {
   width: 100%;
   max-width: 1280px;
   padding: 10px 0px;
-  margin: 0px auto;}
-  
-  .d-box{
+  margin: 0px auto;
+}
+
+.d-box {
   display: flex;
   width: 100%;
-  overflow: hidden;}
-  
-  .d-frame {display: flex;
+  overflow: hidden;
+}
+
+.d-frame {
+  display: flex;
   flex-direction: column;
   width: 50%;
-  padding-right: 80px;}
-  
-  .d-text{-webkit-box-align: stretch;
+  padding-right: 80px;
+}
+
+.d-text {
+  -webkit-box-align: stretch;
   align-items: stretch;
   box-shadow: none;
   box-sizing: border-box;
@@ -658,184 +664,198 @@ header {
   background: none 0% 0% / auto transparent;
   flex: 0 1 100%;
   margin: 0px;
-  padding: 0px;}
-  
-  .d-text1{
-    font-size: 24px;
-    line-height: 140%;
-    margin-bottom: 20px;
-    text-transform: uppercase;
-    font-family: "Work Sans", sans-serif;
-    font-weight: 700;
-    color: rgb(28, 34, 148);
-    text-align: left;
-    max-width: none;
-  }
-  
-  .donation-p{
-    color: rgb(45, 48, 55);
-    text-align: left;
-    max-width: none;
-    line-height: 160%;
-    font-size: 16px;
-    font-family: "Space Mono", monospace;
-    margin: 0px;
-    white-space: pre-wrap;
-    word-break: break-word;
-    font-weight: 300;
-  }
-  
-  .d-form{display: flex;
-  flex-direction: column;
-  width: 50%;}
-  
-  .form1{display: flex;
-  flex-direction: column;
-  align-items: flex-start;}
-  .d-table:first-child{
-    margin-bottom: 20px;
-  }
-  .d-table{
+  padding: 0px;
+}
+
+.d-text1 {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+}
+
+.donation-p {
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.d-form {
   display: flex;
-  flex-direction: row;}
-  
-  .d-once, .d-monthly{
-    cursor: pointer;
-    display: flex;
-    -webkit-box-align: center;
-    align-items: center;
-    margin-right: 20px;
-  
-  }
-  .d-once1, .d-monthly1{
+  flex-direction: column;
+  width: 50%;
+}
+
+.form1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.d-table:first-child {
+  margin-bottom: 20px;
+}
+.d-table {
+  display: flex;
+  flex-direction: row;
+}
+
+.d-once,
+.d-monthly {
   cursor: pointer;
-  margin-right: 10px;}
-  
-  input[type="radio" i]{
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  margin-right: 20px;
+}
+.d-once1,
+.d-monthly1 {
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+input[type="radio" i] {
   background-color: initial;
   appearance: auto;
   box-sizing: border-box;
   margin: 3px 3px 0px 5px;
   padding: initial;
-  border: initial;}
-  
-  input{
-    -webkit-writing-mode: horizontal-tb !important;
-    text-rendering: auto;
-    color: -internal-light-dark(black, white);
-    letter-spacing: normal;
-    word-spacing: normal;
-    text-transform: none;
-    text-indent: 0px;
-    text-shadow: none;
-    display: inline-block;
-    text-align: start;
-    -webkit-rtl-ordering: logical;
-    font: 400 13.3333px Arial;
-  
-  }
-  
-  .donation-p1, .donation-p2, .message1{
-    color: rgb(28, 34, 148);
-    text-align: left;
-    max-width: none;
-    line-height: 160%;
-    font-size: 16px;
-    font-family: "Work Sans", sans-serif;
-    margin: 0px;
-    white-space: pre-wrap;
-    word-break: break-word;
-    font-weight: 300;
-  
-  }
-  .d-table1{
-    display: flex;
-    flex-direction: column;
-  }
-  
-  .amount1{
-    color: rgb(28, 34, 148);
-    text-align: left;
-    max-width: none;
-    line-height: 160%;
-    font-size: 16px;
-    font-family: "Work Sans", sans-serif;
-    margin: 0px;
-    white-space: pre-wrap;
-    word-break: break-word;
-    font-weight: 300;
-  }
-  
-  
-  .amount2{
-    display: flex;
-    margin: 20px 0px;
-  }
-  ol, ul{
-  list-style: none;}
-  
-  .amount3:not(:last-child) ,.amount4:not(:last-child) {
-    border-right: none;
-  }
-  
-  .amount3{ display: flex;
-    border: 1px solid rgb(28, 34, 148);
-    color: white;
-    padding: 15px 20px;
-    cursor: pointer;
-    -webkit-box-pack: center;
-    justify-content: center;
-    background-color: rgb(28, 34, 148);
-    font-family: "Work Sans", sans-serif;}
-  
-  .amount4{
-    display: flex;
-    border: 1px solid rgb(28, 34, 148);
-    color: rgb(28, 34, 148);
-    padding: 15px 20px;
-    cursor: pointer;
-    -webkit-box-pack: center;
-    justify-content: center;
-    background-color: white;
-    font-family: "Work Sans", sans-serif;
-  }
-  
-  .value1, .d-text2{   
-     width: 100%;
-    border-top: none;
-    border-right: none;
-    border-left: none;
-    border-image: initial;
-    border-bottom: 1px solid rgb(28, 34, 148);
-    margin: 20px 0px;
-    font-size: 18px;
-    padding: 5px;
-    box-sizing: border-box;
-    color: rgb(28, 34, 148);
-    background-color: transparent;
-    outline: none;}
-  
-    .d-button{
-      display: inline-flex;
-      font-size: 12px;
-      line-height: 160%;
-      text-decoration: none;
-      background-color: rgb(74, 80, 187);
-      color: white;
-      font-weight: 600;
-      border: 1px solid transparent;
-      border-radius: 4px;
-      box-sizing: border-box;
-      padding: 10px 20px;
-      cursor: pointer;
-      text-transform: uppercase;
-      -webkit-box-align: center;
-      align-items: center;
-      font-family: "Work Sans", sans-serif;}
+  border: initial;
+}
 
-  /*END section 7 & donation box by Moamin & senait */
+input {
+  -webkit-writing-mode: horizontal-tb !important;
+  text-rendering: auto;
+  color: -internal-light-dark(black, white);
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  display: inline-block;
+  text-align: start;
+  -webkit-rtl-ordering: logical;
+  font: 400 13.3333px Arial;
+}
 
+.donation-p1,
+.donation-p2,
+.message1 {
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+.d-table1 {
+  display: flex;
+  flex-direction: column;
+}
 
+.amount1 {
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+
+.amount2 {
+  display: flex;
+  margin: 20px 0px;
+}
+ol,
+ul {
+  list-style: none;
+}
+
+.amount3:not(:last-child),
+.amount4:not(:last-child) {
+  border-right: none;
+}
+
+.amount3 {
+  display: flex;
+  border: 1px solid rgb(28, 34, 148);
+  color: white;
+  padding: 15px 20px;
+  cursor: pointer;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background-color: rgb(28, 34, 148);
+  font-family: "Work Sans", sans-serif;
+}
+
+.amount4 {
+  display: flex;
+  border: 1px solid rgb(28, 34, 148);
+  color: rgb(28, 34, 148);
+  padding: 15px 20px;
+  cursor: pointer;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background-color: white;
+  font-family: "Work Sans", sans-serif;
+}
+
+.value1,
+.d-text2 {
+  width: 100%;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-image: initial;
+  border-bottom: 1px solid rgb(28, 34, 148);
+  margin: 20px 0px;
+  font-size: 18px;
+  padding: 5px;
+  box-sizing: border-box;
+  color: rgb(28, 34, 148);
+  background-color: transparent;
+  outline: none;
+}
+
+.d-button {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+/*END section 7 & donation box by Moamin & senait */
 
 /* BEGIN section8 by Daniel */
 
@@ -933,10 +953,11 @@ header {
   color: black;
   font-family: monospace;
   text-align: center;
-  width: 150px;
+  max-width: none;
   line-break: auto;
   margin: 10px auto;
   line-height: 1.8rem;
+  word-break: break-word;
 }
 
 .footer nav {
@@ -951,7 +972,7 @@ header {
 
 .footer_mail {
   text-align: center;
-  height: 100px;
+  height: 50px;
 }
 .footer_mail a {
   color: black;
