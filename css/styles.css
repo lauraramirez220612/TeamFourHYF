@@ -1107,6 +1107,92 @@ ul {
 
 /* END apply box by Senait */
 
+/*BEGIN section1 program by Laura */
+
+.section1p{    display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 50px 20px;
+  position: relative;
+  box-shadow: none;
+  background: rgb(248, 249, 252);
+  flex: 0 0 auto;
+  }
+  .section1pcontainer{display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px auto;}
+
+  .section1pcontent{display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-start;}
+
+  .section1ptitle{font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: “Work Sans”, sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;}
+  
+  .section1pclass1{display: flex;}
+
+  .section1pclass2{
+    padding-right: 100px;
+    width: 45%;
+  }
+  .section1ptext1{color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: “Space Mono”, monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;}
+
+  .section1plist{display: flex;
+  flex-direction: column;}
+  ol, ul {list-style: none;}
+
+  .s1p{position: relative;
+  padding-left: 30px;
+  margin: 3px 0px;}
+
+  .s2p{color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: “Space Mono”, monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;}
+
+  .s2p > b { display: inline;
+  color: rgb(74, 80, 187);
+  font-weight: bold;
+  font-family: "Space Mono", monospace;}
+
+    .s3p{
+      position: relative;
+      padding-left: 30px;
+      margin: 3px 0px;
+    }
+  /*END  section2P by Laura*/
+
 /* section1AB by Daniel*/
 
 .section1AB {
