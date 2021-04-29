@@ -1764,8 +1764,6 @@ ul {
   justify-content: center;
   width: 100%;
   padding: 50px 20px;
-  position: absolute;
-  box-shadow: none;
   background: rgb(248, 249, 252);
   flex: 0 0 auto;
 }
