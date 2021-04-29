@@ -1580,3 +1580,68 @@ ul {
   z-index: auto;
   position: relative;
 }
+
+/* About page , section our team by Moamin*/
+.ourteam {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.ourteam h3 {
+  font-family: "Work Sans", sans-serif;
+  text-transform: uppercase;
+  font-size: 24px;
+  color: rgb(28, 34, 148);
+  margin: 0 40px;
+}
+
+.ourteam_coaches {
+  display: flex;
+  overflow: auto;
+  position: relative;
+}
+.ourteam .coach {
+  width: 30%;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.08) 0px 0px 53px;
+  padding: 20px 40px;
+  display: grid;
+}
+.ourteam h4 {
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: center;
+  margin: 10px auto;
+}
+
+.ourteam_title p {
+  color: rgb(74, 80, 187);
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
+  text-align: center;
+  width: 90%;
+  height: 30px;
+  margin-bottom: 10px;
+}
+
+.ourteampic {
+  height: 180px;
+  width: 180px;
+  filter: grayscale(100%);
+  border-radius: 100%;
+  margin: 20px auto;
+}
+
+.ourteam a {
+  color: rgb(74, 80, 187);
+}
+.ourteam_icons {
+  max-width: 200px;
+  margin: 10px auto;
+  padding: 50px;
+}
