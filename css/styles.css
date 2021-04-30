@@ -1862,3 +1862,62 @@ ul {
   font-family: "Work Sans", sans-serif;
 }
 /* End section1V by Daniel */
+/* Start Volunteer page SC2 by Moamin */
+.sc-v2 {
+  max-width: 1200px;
+  padding: 10px 0;
+  margin: 0 auto;
+  display: flex;
+}
+
+.sc-v2-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  justify-content: center;
+}
+
+.sc-v2-title {
+  display: flex;
+  padding: 10px 0;
+  margin: 0 2px;
+  text-align: center;
+}
+.sc-v2-title h3 {
+  font-family: "Work Sans", sans-serif;
+  color: rgb(28, 34, 148);
+  font-size: 20px;
+  text-transform: uppercase;
+  margin: 0 20px;
+  text-align: left;
+}
+.sc-v2-sections {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+.sc-v2-sections-content {
+  display: flex;
+  max-width: max-content;
+  margin-right: 20px;
+}
+
+.sc-v2 p {
+  margin-left: 40px;
+  color: rgb(45, 48, 55);
+  max-width: 470px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+}
+.sc-v2-color {
+  color: rgb(74, 80, 187);
+}
+
+.sc-v2-image {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  position: relative;
+}
+/* end Volunteer page SC2 by Moamin*/
