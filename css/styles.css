@@ -1214,7 +1214,407 @@ ul {
   padding-left: 30px;
   margin: 3px 0px;
 }
-/*END  section2P by Laura*/
+/*END  section1P by Laura*/
+
+
+  /* BEGIN section2 P by Laura */
+
+  .sec2pcontainer{display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+    padding: 50px 20px;
+    position: relative;
+    box-shadow: none;
+    background: none;
+    z-index: 1;
+    flex: 0 0 auto;}
+    
+    .sec2pbox{
+      display: flex;
+      flex-direction: column;
+      -webkit-box-pack: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      align-items: center;
+      width: 100%;
+      max-width: 1280px;
+      padding: 10px 0px;
+      margin: 0px auto;
+    
+    }
+    .sec2pbox2{
+    
+      display: flex;
+      -webkit-box-pack: justify;
+      justify-content: space-between;
+      -webkit-box-align: center;
+      align-items: center;
+      width: 100%;
+    
+    }
+    .sec2pbox3{
+      display: flex;
+      align-items: flex-start;
+      flex-direction: column;
+      width: 350px;
+    
+    }
+    .sec2ptitle{
+      font-size: 24px;
+      line-height: 140%;
+      margin-bottom: 20px;
+      text-transform: uppercase;
+      font-family: "Work Sans", sans-serif;
+      font-weight: 700;
+      color: rgb(28, 34, 148);
+      text-align: left;
+      max-width: none;
+    }
+    .sec2pbox4{
+        -webkit-box-align: stretch;
+        align-items: stretch;
+        box-shadow: none;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+        -webkit-box-flex: 0;
+        height: auto;
+        -webkit-box-pack: start;
+        justify-content: flex-start;
+        max-height: none;
+        max-width: none;
+        width: 100%;
+        z-index: 0;
+        position: static;
+        background: none 0% 0% / auto transparent;
+        flex: 0 1 100%;
+        margin: 10px 0px;
+        padding: 0px;
+    }
+    
+    .sec2plink{
+      display: inline-flex;
+      font-size: 12px;
+      line-height: 160%;
+      text-decoration: none;
+      background-color: rgb(74, 80, 187);
+      color: white;
+      font-weight: 600;
+      border: 1px solid transparent;
+      border-radius: 4px;
+      box-sizing: border-box;
+      padding: 10px 20px;
+      cursor: pointer;
+      text-transform: uppercase;
+      -webkit-box-align: center;
+      align-items: center;
+      font-family: "Work Sans", sans-serif;
+    
+    }
+    .sec2pbox5{
+      -webkit-box-align: stretch;
+        align-items: stretch;
+        box-shadow: none;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+        -webkit-box-flex: 0;
+        height: auto;
+        -webkit-box-pack: start;
+        justify-content: flex-start;
+        max-height: none;
+        max-width: none;
+        width: 100%;
+        z-index: 0;
+        position: static;
+        background: none 0% 0% / auto transparent;
+        flex: 0 1 100%;
+        margin: 10px 0px;
+        padding: 0px;
+    }
+    .sec2plink1{
+        display: inline-flex;
+        font-size: 12px;
+        line-height: 160%;
+        text-decoration: none;
+        background-color: rgb(74, 80, 187);
+        color: white;
+        font-weight: 600;
+        border: 1px solid transparent;
+        border-radius: 4px;
+        box-sizing: border-box;
+        padding: 10px 20px;
+        cursor: pointer;
+        text-transform: uppercase;
+        -webkit-box-align: center;
+        align-items: center;
+        font-family: "Work Sans", sans-serif;
+    }
+  
+    .sec2pbox6{
+    display: flex;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    max-width: 600px;
+    flex-wrap: wrap;
+    }
+    .sec2pbox6a{
+      -webkit-box-align: center;
+        align-items: center;
+        box-shadow: none;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        -webkit-box-flex: 0;
+        height: 150px;
+        -webkit-box-pack: center;
+        justify-content: center;
+        max-height: none;
+        max-width: none;
+        width: 200px;
+        z-index: 0;
+        position: static;
+        background: none 0% 0% / auto transparent;
+        flex: 0 1 200px;
+        margin: 0px;
+        padding: 0px;
+    }
+    .sepbox6aa{
+    width: 65px;
+    height: 60px;
+    object-fit: fill;
+    border-radius: 0px;
+    }
+    
+    .sepbox6aaa{
+    color: rgb(28, 34, 148);
+    text-align: center;
+    max-width: none;
+    line-height: 160%;
+    font-size: 16px;
+    font-family: "Work Sans", sans-serif;
+    margin: 10px 0px 0px;
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-weight: 300;
+    }
+    
+    .sec2pbox6b{
+      -webkit-box-align: center;
+      align-items: center;
+      box-shadow: none;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      -webkit-box-flex: 0;
+      height: 150px;
+      -webkit-box-pack: center;
+      justify-content: center;
+      max-height: none;
+      max-width: none;
+      width: 200px;
+      z-index: 0;
+      position: static;
+      background: none 0% 0% / auto transparent;
+      flex: 0 1 200px;
+      margin: 0px;
+      padding: 0px;
+    }
+    
+    .sepbox6bb{
+    width: 65px;
+    height: 60px;
+    object-fit: fill;
+    border-radius: 0px;
+    }
+    
+    .sepbox6bbb{
+      color: rgb(28, 34, 148);
+      text-align: center;
+      max-width: none;
+      line-height: 160%;
+      font-size: 16px;
+      font-family: "Work Sans", sans-serif;
+      margin: 10px 0px 0px;
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-weight: 300;
+    }
+    .sec2pbox6c{
+      -webkit-box-align: center;
+        align-items: center;
+        box-shadow: none;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        -webkit-box-flex: 0;
+        height: 150px;
+        -webkit-box-pack: center;
+        justify-content: center;
+        max-height: none;
+        max-width: none;
+        width: 200px;
+        z-index: 0;
+        position: static;
+        background: none 0% 0% / auto transparent;
+        flex: 0 1 200px;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .sepbox6cc{
+      width: 65px;
+      height: 60px;
+      object-fit: fill;
+      border-radius: 0px;
+    }
+    
+    .sepbox6ccc{
+      color: rgb(28, 34, 148);
+      text-align: center;
+      max-width: none;
+      line-height: 160%;
+      font-size: 16px;
+      font-family: "Work Sans", sans-serif;
+      margin: 10px 0px 0px;
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-weight: 300;
+    }
+    
+    .sec2pbox6d{
+      -webkit-box-align: center;
+        align-items: center;
+        box-shadow: none;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        -webkit-box-flex: 0;
+        height: 150px;
+        -webkit-box-pack: center;
+        justify-content: center;
+        max-height: none;
+        max-width: none;
+        width: 200px;
+        z-index: 0;
+        position: static;
+        background: none 0% 0% / auto transparent;
+        flex: 0 1 200px;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .sepbox6dd{
+      width: 65px;
+      height: 60px;
+      object-fit: fill;
+      border-radius: 0px;
+    }
+    
+    .sepbox6ddd{
+      color: rgb(28, 34, 148);
+      text-align: center;
+      max-width: none;
+      line-height: 160%;
+      font-size: 16px;
+      font-family: "Work Sans", sans-serif;
+      margin: 10px 0px 0px;
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-weight: 300;
+    }
+    
+    
+    .sec2pbox6e{
+      -webkit-box-align: center;
+        align-items: center;
+        box-shadow: none;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        -webkit-box-flex: 0;
+        height: 150px;
+        -webkit-box-pack: center;
+        justify-content: center;
+        max-height: none;
+        max-width: none;
+        width: 200px;
+        z-index: 0;
+        position: static;
+        background: none 0% 0% / auto transparent;
+        flex: 0 1 200px;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .sepbox6ee{
+      width: 65px;
+      height: 60px;
+      object-fit: fill;
+      border-radius: 0px;
+    }
+    
+    .sepbox6eee{
+      color: rgb(28, 34, 148);
+      text-align: center;
+      max-width: none;
+      line-height: 160%;
+      font-size: 16px;
+      font-family: "Work Sans", sans-serif;
+      margin: 10px 0px 0px;
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-weight: 300;
+    }
+    
+    .sec2pbox6f{
+      -webkit-box-align: center;
+      align-items: center;
+      box-shadow: none;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      -webkit-box-flex: 0;
+      height: 150px;
+      -webkit-box-pack: center;
+      justify-content: center;
+      max-height: none;
+      max-width: none;
+      width: 200px;
+      z-index: 0;
+      position: static;
+      background: none 0% 0% / auto transparent;
+      flex: 0 1 200px;
+      margin: 0px;
+      padding: 0px;
+    }
+    
+    .sepbox6ff{
+      width: 65px;
+      height: 60px;
+      object-fit: fill;
+      border-radius: 0px;
+    }
+    
+    .sepbox6fff{
+      color: rgb(28, 34, 148);
+      text-align: center;
+      max-width: none;
+      line-height: 160%;
+      font-size: 16px;
+      font-family: "Work Sans", sans-serif;
+      margin: 10px 0px 0px;
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-weight: 300;
+    }
+    
+    
+    /* END section2 p by Laura*/
+
+
+
 
 /* section1AB by Daniel*/
 
@@ -1885,3 +2285,63 @@ ul {
   font-family: "Work Sans", sans-serif;
   margin-left: 20px;
 }
+
+/* Start Volunteer page SC2 by Moamin */
+.sc-v2 {
+  max-width: 1200px;
+  padding: 10px 0;
+  margin: 0 auto;
+  display: flex;
+}
+
+.sc-v2-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  justify-content: center;
+}
+
+.sc-v2-title {
+  display: flex;
+  padding: 10px 0;
+  margin: 0 2px;
+  text-align: center;
+}
+.sc-v2-title h3 {
+  font-family: "Work Sans", sans-serif;
+  color: rgb(28, 34, 148);
+  font-size: 20px;
+  text-transform: uppercase;
+  margin: 0 20px;
+  text-align: left;
+}
+.sc-v2-sections {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+.sc-v2-sections-content {
+  display: flex;
+  max-width: max-content;
+  margin-right: 20px;
+}
+
+.sc-v2 p {
+  margin-left: 40px;
+  color: rgb(45, 48, 55);
+  max-width: 470px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+}
+.sc-v2-color {
+  color: rgb(74, 80, 187);
+}
+
+.sc-v2-image {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  position: relative;
+}
+/* end Volunteer page SC2 by Moamin*/
