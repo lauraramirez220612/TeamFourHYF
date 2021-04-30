@@ -51,6 +51,7 @@ header {
   display: flex;
   list-style: none;
   cursor: pointer;
+  align-items: center;
 }
 
 .navbar ul li a {
@@ -2262,6 +2263,29 @@ ul {
   font-family: "Work Sans", sans-serif;
 }
 /* End section1V by Daniel */
+
+/* apply button */
+
+.apply-btn {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+  margin-left: 20px;
+}
+
 /* Start Volunteer page SC2 by Moamin */
 .sc-v2 {
   max-width: 1200px;
