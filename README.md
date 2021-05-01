@@ -28,16 +28,16 @@ The following tools were used in this project:
 
 Intended final result
 
-- [Screenshot image 1](Image%20folder/Web%20capture_20-4-2021_165146_hackyourfuture.be.jpeg)
-- [Screenshot image 2](Image%20folder/Web%20capture_20-4-2021_165220_hackyourfuture.be.jpeg)
-- [Screenshot image 3](Image%20folder/Web%20capture_20-4-2021_165247_hackyourfuture.be.jpeg)
+- [Screenshot image 1](screenshots/Web%20capture_20-4-2021_165146_hackyourfuture.be.jpeg)
+- [Screenshot image 2](screenshots/Web%20capture_20-4-2021_165220_hackyourfuture.be.jpeg)
+- [Screenshot image 3](screenshots/Web%20capture_20-4-2021_165247_hackyourfuture.be.jpeg)
 
-- [Screenshot image 4](Image%20folder/Web%20capture_20-4-2021_165345_hackyourfuture.be.jpeg)
+- [Screenshot image 4](screenshots/Web%20capture_20-4-2021_165345_hackyourfuture.be.jpeg)
 
-- [screenshot image 5](Image%20folder/Web%20capture_20-4-2021_165443_hackyourfuture.be.jpeg)
+- [screenshot image 5](screenshots/Web%20capture_20-4-2021_165443_hackyourfuture.be.jpeg)
 
-- [Screenshot image 6](Image%20folder/Web%20capture_20-4-2021_165512_hackyourfuture.be.jpeg)
-- [Screenshot image 7](Image%20folder/Web%20capture_20-4-2021_165538_docs.google.com.jpeg)
+- [Screenshot image 6](screenshots/Web%20capture_20-4-2021_165512_hackyourfuture.be.jpeg)
+- [Screenshot image 7](screenshots/Web%20capture_20-4-2021_165538_docs.google.com.jpeg)
 
 ## Contributors
 
